@@ -2,8 +2,10 @@
 
 I am a Biochemistry student at the University of Lagos and a certified Data Analyst. I am passionate about bridging the gap between biological sciences and data-driven insights. 
 
-**🎯 Current Focus:** Transitioning from data analytics into bioinformatics and computer-aided drug discovery (CADD).
+**🎯 Current Focus:** I am currently transitioning from data analytics into bioinformatics and computer-aided drug discovery (CADD).
+
 **🌱 Currently Exploring:** AI-driven homology, computational biology, and genomic data analysis within Linux (WSL) environments.
+
 **💻 Technical Stack:** Python, R, SQL, Power BI, Excel, Bash, wsl, ubuntu, and many moreeee.
 
 ### 📊 Highlighted Experience
