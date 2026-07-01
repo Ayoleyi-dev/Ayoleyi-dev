@@ -31,6 +31,7 @@ Dont worry my skills are going to grow but this is what i have for now.
 * 💼 **LinkedIn:**  [https://www.linkedin.com/in/ayoleyi-gbenga-ayodeji-aa99b6395/](Linkedin-Ayoleyi)
 * 🌐 **Portfolio:** [Check out my Digital Architecture Hub](https://bit.ly/AyoleyisDataPortfolio) 
 * 🌐 **The website that contains almost everything** [overall-portfolio](https://ayoleyi-s-digital-architecture-hub.vercel.app/)
+* [![Email](https://img.shields.io/badge/Email-ayoleyi05@gmail.com-red?style=flat&logo=gmail)](mailto:ayoleyi05@gmail.com)
 
 ---
 *"Data is the new science. Big Data holds the answers."*
