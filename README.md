@@ -23,7 +23,7 @@ I'm currently building my skills in:
 * Linux (WSL/Ubuntu)
 * Open Science & Reproducible Research
 
-My goal is to build complete computational pipelines—from biological sequence analysis to molecular modelling, data analysis, visualization, and scientific reporting.
+My goal is to build complete computational pipelines from biological sequence analysis to molecular modelling, data analysis, visualization, and scientific reporting.
 
 ---
 
@@ -47,37 +47,37 @@ I'm particularly interested in:
 
 ### 🧬 AI-Assisted Homology Modelling & Molecular Docking
 
-An end-to-end computational biology workflow involving DNA sequence analysis, protein structure prediction, ligand preparation, molecular docking, and biological interpretation for potential therapeutic compounds.
+This is an end-to-end computational biology workflow involving DNA sequence analysis, protein structure prediction, ligand preparation, molecular docking, and biological interpretation for potential therapeutic compounds.
 
 ---
 
 ### 🏥 Healthcare Data Warehouse Analytics Pipeline
 
-Designed and implemented a dimensional healthcare data warehouse with SQL ETL pipelines and interactive Power BI dashboards for healthcare analytics and reporting.
+I Designed and implemented a dimensional healthcare data warehouse with SQL ETL pipelines and interactive Power BI dashboards for healthcare analytics and reporting.
 
 ---
 
 ### 🌿 Agrospectra NDVI Analysis
 
-Applied geospatial analysis techniques to evaluate vegetation health using satellite-derived NDVI data.
+I Applied geospatial analysis techniques to evaluate vegetation health using satellite derived NDVI data.
 
 ---
 
 ### 🛒 Jumia Phone Market Web Scraping & EDA
 
-Collected, cleaned, and analyzed product data from Jumia using Python to uncover pricing patterns and market insights.
+I Collected, cleaned, and analyzed product data from Jumia using Python to uncover pricing patterns and market insights.
 
 ---
 
 ### 🎵 Spotify Exploratory Data Analysis
 
-Performed exploratory data analysis using Python to identify trends, relationships, and patterns within music datasets.
+I Performed exploratory data analysis using Python to identify trends, relationships, and patterns within music datasets.
 
 ---
 
 ### 📊 Business Intelligence Projects
 
-Built interactive dashboards using Power BI and Excel to communicate business insights through effective visualization and storytelling.
+I Built interactive dashboards using Power BI and Excel to communicate business insights through effective visualization and storytelling.
 
 ---
 
@@ -176,6 +176,7 @@ https://ayoleyi-s-digital-architecture-hub.vercel.app/
 
 📧 **Email**
 *ayoleyi05@gmail.com*
+
 
 ---
 
