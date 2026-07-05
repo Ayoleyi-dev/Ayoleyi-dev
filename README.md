@@ -172,7 +172,7 @@ Outside programming, I enjoy:
 https://www.linkedin.com/in/ayoleyi-gbenga-ayodeji-aa99b6395/
 
 🌐 **Portfolio Website**
-https://ayoleyi-s-digital-architecture-hub.vercel.app/
+[https://ayoleyi-s-digital-architecture-hub.vercel.app/](https://ayoleyi-portfolio-3u60ndiqt-ayoleyi05-3466s-projects.vercel.app/)
 
 📧 **Email**
 *ayoleyi05@gmail.com*
