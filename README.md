@@ -1,6 +1,6 @@
 # Hi, I'm Ayoleyi Gbenga-Ayodeji 👋
 
-**Biochemistry Student | Bioinformatics & Computational Drug Discovery Enthusiast | Data Analyst | Python Developer**
+**Biochemistry Student | Bioinformatics & Computational Drug Discovery Scientist | Data Analyst**
 
 Welcome to my GitHub!
 
