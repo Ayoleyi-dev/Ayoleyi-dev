@@ -1,189 +1,53 @@
-# Hi, I'm Ayoleyi Gbenga-Ayodeji 👋
+# Hi, I'm Ayoleyi 👋
 
-**Biochemistry Student | Bioinformatics & Computational Drug Discovery Scientist | Data Analyst**
+**Data Analyst | Business Intelligence | Reporting Automation**  
+Biochemistry undergraduate at the University of Lagos · Lagos, Nigeria
 
-Welcome to my GitHub!
+I build reporting systems, data pipelines and automations that make messy information easier to trust and use. My work spans operational reporting, SQL analytics, Power BI, Python and Google Sheets automation. I'm also interested in applying these skills to healthcare, product analytics and computational biology.
 
-I'm a Biochemistry student at the **University of Lagos** with a growing passion for applying computation to biological research. My work sits at the intersection of **biology, data science, software development, and artificial intelligence**, where I build reproducible computational workflows that transform biological questions into data-driven insights.
+**[Portfolio](https://ayoleyi-portfolio.vercel.app/)** · **[LinkedIn](https://www.linkedin.com/in/ayoleyi-gbenga-ayodeji-aa99b6395/)** · **[Email me](mailto:ayoleyi05@gmail.com)**
 
-Over the past year, I have developed projects in **data analytics, business intelligence, automation, and web development**. I am now transitioning into **Bioinformatics and Computer-Aided Drug Discovery (CADD)**, with a long-term goal of contributing to computational research through open science, machine learning, and scientific software.
+## What I work on
 
----
+- **Business intelligence:** SQL data models, KPI definitions, Power BI reports and clear findings for decision-makers.
+- **Data quality:** Cleaning, reconciliation, validation rules and repeatable checks before numbers reach a dashboard.
+- **Reporting automation:** Excel, Google Sheets, Google Apps Script and Python workflows that reduce repetitive handling.
+- **Applied analytics:** Market pricing, operational performance and product/engagement analysis.
 
-## 🎯 Current Focus
+## Selected projects
 
-I'm currently building my skills in:
+| Project | What I built | Tools |
+| --- | --- | --- |
+| [Public Health Data Warehouse & Analytics Pipeline](https://github.com/Ayoleyi-dev/Public-Health-Data-Warehouse-Analytics-Pipeline) | A SQL Server reporting model for synthetic healthcare records, with constraints, validation checks, Power BI reporting and CI tests. | SQL Server, T-SQL, Power BI |
+| [Jumia Smartphone Market Analysis](https://github.com/Ayoleyi-dev/Jumia-Phone-Market-Webscraping-EDA) | Collected and cleaned marketplace listings, fixed parsing issues and analysed listed prices and seller patterns. The data is **listings, not actual sales**. | Python, Pandas, SQL |
+| [Hytale Player & Server Analytics](https://github.com/Ayoleyi-dev/Hytale-Data-Analysis-Project) | Built a Java telemetry collector, Python/SQLite analytics pipeline and [Streamlit dashboard](https://hytale-analytics-ayoleyi.streamlit.app). Simulated player metrics are kept separate from observations on my own local server. | Java, Python, SQLite, Streamlit |
+| [PII Privacy & Data Quality Pipeline](https://github.com/Ayoleyi-dev/PII-Data-Privacy-QA-Pipeline) | Validated and de-identified **synthetic** customer records, with privacy-aware issue logs and automated tests. | Python, Pytest, GitHub Actions |
+| [AI Document Extraction QA Validator](https://github.com/Ayoleyi-dev/AI-Document-Extraction-QA-Validator) | Checked structured invoice extraction outputs against JSON Schema, duplicate rules and financial reconciliation logic. | Python, JSON Schema |
+| [Excel Chocolate Sales Analysis](https://github.com/Ayoleyi-dev/Excel-Chocolate-Sales-Analysis) | Built an interactive Excel reporting workbook with KPI views, data auditing and scenario planning for a historical sales dataset. | Excel, formulas, PivotTables |
 
-* Bioinformatics
-* Computational Drug Discovery (CADD)
-* AI-assisted Protein Modelling
-* Molecular Docking
-* Computational Biology
-* Scientific Programming with Python
-* Linux (WSL/Ubuntu)
-* Open Science & Reproducible Research
+## Applied experience
 
-My goal is to build complete computational pipelines from biological sequence analysis to molecular modelling, data analysis, visualization, and scientific reporting.
+- **DIAMS — Data & Analytics Officer:** I maintain operational trackers, validate recurring records, prepare KPI reports and improve reporting workflows with Google Sheets and Apps Script.
+- **Silver Lue — Analytics work:** I analysed audience and content-performance data and translated patterns into practical reporting and recommendations.
+- **Son of I Am — Client market research:** I structured artwork-pricing comparisons and source tracking in an Excel workbook to support commercial discussions.
 
----
+I describe the scope of my project data plainly: synthetic demonstrations are labelled as such, and I don't present example results as measured client outcomes.
 
-# 🧬 Research Interests
+## Tools I use
 
-I'm particularly interested in:
+**Analysis and BI:** SQL / T-SQL, SQL Server, Excel, Power BI, Power Query, DAX, Python, Pandas  
+**Automation and engineering:** Google Sheets, Google Apps Script, SQLite, data modelling, ETL, Git, GitHub Actions, Pytest  
+**Visualisation and apps:** Power BI, Streamlit, Plotly, Matplotlib
 
-* Drug Discovery
-* Computational Biology
-* Bioinformatics
-* Structural Biology
-* Machine Learning for Life Sciences
-* Scientific Software Development
-* Chemoinformatics
-* Pharmacogenomics
-* Data-driven Healthcare Research
+## Computational biology and scientific work
 
----
+I'm studying **Biochemistry at the University of Lagos** and developing a parallel interest in bioinformatics and computational drug discovery. My [homology-modelling and molecular-docking project](https://github.com/Ayoleyi-dev/Ai-Homology-Modeling) documents an exploratory in-silico workflow; its predictions are not experimental evidence of drug efficacy.
 
-# 🚀 Featured Projects
+## Connect
 
-### 🧬 AI-Assisted Homology Modelling & Molecular Docking
+I'm interested in **junior Data Analyst, BI, reporting and analytics automation opportunities**, including work where healthcare or scientific domain knowledge is useful.
 
-This is an end-to-end computational biology workflow involving DNA sequence analysis, protein structure prediction, ligand preparation, molecular docking, and biological interpretation for potential therapeutic compounds.
-
----
-
-### 🏥 Healthcare Data Warehouse Analytics Pipeline
-
-I Designed and implemented a dimensional healthcare data warehouse with SQL ETL pipelines and interactive Power BI dashboards for healthcare analytics and reporting.
-
----
-
-### 🌿 Agrospectra NDVI Analysis
-
-I Applied geospatial analysis techniques to evaluate vegetation health using satellite derived NDVI data.
-
----
-
-### 🛒 Jumia Phone Market Web Scraping & EDA
-
-I Collected, cleaned, and analyzed product data from Jumia using Python to uncover pricing patterns and market insights.
-
----
-
-### 🎵 Spotify Exploratory Data Analysis
-
-I Performed exploratory data analysis using Python to identify trends, relationships, and patterns within music datasets.
-
----
-
-### 📊 Business Intelligence Projects
-
-I Built interactive dashboards using Power BI and Excel to communicate business insights through effective visualization and storytelling.
-
----
-
-# 💻 Technical Skills
-
-## Programming
-
-* Python
-* SQL
-* R
-* HTML
-* CSS
-* Bash
-
-## Data Science & Analytics
-
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* ETL Pipelines
-* Data Warehousing
-* Dimensional Modelling
-* Statistical Analysis
-
-## Bioinformatics & Computational Biology
-
-* Homology Modelling
-* Molecular Docking
-* Sequence Analysis
-* Binding Affinity Interpretation
-* Protein Structure Prediction
-* Scientific Literature Review
-
-## Scientific Libraries & Tools
-
-* Biopython
-* RDKit *(Learning)*
-* AutoDock Vina
-* PyMOL
-* SWISS-MODEL
-* MODELLER
-
-## Data Visualization
-
-* Power BI
-* Microsoft Excel
-* Matplotlib
-* Plotly *(Learning)*
-
-## Development Environment
-
-* Linux (Ubuntu/WSL)
-* Git & GitHub
-* Jupyter Notebook
-* VS Code
-
----
-
-# 📚 Currently Learning
-
-I strongly believe that continuous learning is one of the most valuable skills in technology and scientific research.
-
-My current roadmap includes:
-
-* BioPython
-* RDKit
-* Molecular Dynamics
-* GROMACS
-* DeepChem
-* Protein Language Models
-* FastAPI
-* Docker
-* Machine Learning for Drug Discovery
-
----
-
-# 🌍 Beyond Code
-
-Outside programming, I enjoy:
-
-* Reading scientific literature
-* Learning new computational methods
-* Scientific writing
-* Building educational resources
-* Mentoring and tutoring aspiring data analysts
-* Exploring how AI can accelerate biological research
-
----
-
-# 🤝 Let's Connect
-
-💼 **LinkedIn**
-https://www.linkedin.com/in/ayoleyi-gbenga-ayodeji-aa99b6395/
-
-🌐 **Portfolio Website**
-[https://ayoleyi-s-digital-architecture-hub.vercel.app/](https://ayoleyi-portfolio-3u60ndiqt-ayoleyi05-3466s-projects.vercel.app/)
-
-📧 **Email**
-*ayoleyi05@gmail.com*
-
-
----
-
-## 💡 My Philosophy
-
-> *"The most impactful technology isn't built to showcase code—it's built to answer meaningful scientific questions."*
-
-I believe the future of biological research lies in reproducible computational workflows, open science, and interdisciplinary collaboration. Every project I build is another step toward contributing to that future.
-
-Thanks for stopping by! Feel free to explore my repositories, follow my journey, or reach out if you'd like to collaborate on data analytics, bioinformatics, or computational biology projects.
+- [View my portfolio](https://ayoleyi-portfolio.vercel.app/)
+- [Connect on LinkedIn](https://www.linkedin.com/in/ayoleyi-gbenga-ayodeji-aa99b6395/)
+- [Explore my repositories](https://github.com/Ayoleyi-dev?tab=repositories)
+- [Email me](mailto:ayoleyi05@gmail.com)
